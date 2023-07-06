@@ -1,1 +1,1 @@
-My Vagrant work is here
+My first Vagrant project
